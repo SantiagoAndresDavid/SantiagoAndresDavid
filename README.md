@@ -6,5 +6,5 @@ Hello everyone, I am Santiago and I am a systems engineering student, I am curre
 
 ### Programming Languages 🌐
 
-| [<img src="![image](https://user-images.githubusercontent.com/71909879/122144921-f5e71b00-ce19-11eb-848d-0fb9bddc5ff2.png)" width="35">](https://www.java.com/es/)  | 
-[<img src="![image](https://user-images.githubusercontent.com/71909879/122144990-0d260880-ce1a-11eb-9abb-93bd8078e563.png)" alt="python" width="35">](https://www.python.org)
+| [<img src="![image]()" width="24">](https://www.java.com/es/)  | [<img src="![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)" alt="python" width="38">](https://www.python.org)
+|---|---|
