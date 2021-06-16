@@ -7,16 +7,23 @@ Hello everyone, I am Santiago and I am a systems engineering student, I am curre
 
 ### Programming Languages 🌐
 
-| [<img src="![image](https://user-images.githubusercontent.com/71909879/122145417-d3093680-ce1a-11eb-95b5-2fd1055413a8.png)" alt="python" width="24">](https://www.python.org) |
-| [<img src="![image](https://user-images.githubusercontent.com/71909879/122145417-d3093680-ce1a-11eb-95b5-2fd1055413a8.png)" alt="java" width="24">](https://www.java.com/es/) |
-| coming soon | |---|---|---|
 
   
   
 ### Tools 🛠️
- | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |
- | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | | coming soon |---|---|---| 
+| PYTHON | JAVA  | coming soon
+|---|---|---|
 
- ### Github Stats 👓
+### Github Stats 👓
 
-[![Santiago Anndres David GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoAndresDavid(https://github.com/SantiagoAndresDavid)
+ | Git  | vsCode  | intellij
+|---|---|---|
+  
+### Stats 💡  
+[![Santiago Andres David GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoAndresDavid)](https://github.com/anandmainali)
+
+
+  
+  
+###   
+
