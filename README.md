@@ -3,7 +3,12 @@
 <div>
  <p>
 Hello everyone, I am Santiago and I am a systems engineering student, I am currently living in Colombia, I hope to continue on the path of learning
-  
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="250" align='center'>
+
 
 ## Programming Languages 🌐
 | PYTHON | JAVA  | coming soon
