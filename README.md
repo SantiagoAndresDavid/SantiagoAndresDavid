@@ -19,4 +19,4 @@ Hello everyone, I am Santiago and I am a systems engineering student, I am curre
 
  ### Github Stats 👓
 
-[![SantiagoAnndresDavid GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)(https://github.com/SantiagoAndresDavid)
+[![Santiago Anndres David GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoAndresDavid=true&count_private=true)(https://github.com/SantiagoAndresDavid)
