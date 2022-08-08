@@ -7,17 +7,17 @@ Hello everyone, I am Santiago and I am a systems engineering student, I am curre
 
 ## Programming Languages 🌐
 | JAVA  | C# |
-|---|---|---|---|
+|---|---|
 
 
 ## Tools 🛠️
 | Git | Heroku | linux | aws |  
-|---|---|---|---|---|---|
+|---|---|---|---|
   
 ## Databases 🗃
   
 | Oracle | PostGreSQL | SQL Server | 
-|---|---|---|---|
+|---|---|---|
   
 
   
@@ -31,5 +31,3 @@ Hello everyone, I am Santiago and I am a systems engineering student, I am curre
 <a href="https://www.linkedin.com/in/santiago-andres-david-gomez-4164a3236/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Santiago Andres David-blue?style=flat-square&logo=Linkedin"></a> 
 
 </p>
-
- ⭐️ From [@SantiagoAndresDavid](https://github.com/SantiagoAndresDavid)
