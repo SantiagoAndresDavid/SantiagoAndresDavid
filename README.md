@@ -6,17 +6,17 @@ Hello everyone, I am Santiago and I am a systems engineering student, I am curre
 <br/>
 
 ## Programming Languages 🌐
-| JAVA  | C# |
+| java  | C# |
 |---|---|
 
 
 ## Tools 🛠️
-| Git | Heroku | linux | aws |  
+| Git | Heroku | Linux | aws |  
 |---|---|---|---|
   
 ## Databases 🗃
   
-| Oracle | PostGreSQL | SQL Server | 
+| Oracle | PostgreSQL | SQL Server | 
 |---|---|---|
   
 
